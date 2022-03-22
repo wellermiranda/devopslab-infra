@@ -8,13 +8,13 @@ terraform {
 }
 
 provider "google" {
-  project = "regal-groove-344900"
+  project = "strong-park-344922"
   region  = "us-west1"
   zone    = "us-west1-b"
 }
 
 provider "google-beta" {
-  project = "regal-groove-344900"
+  project = "strong-park-344922"
   region  = "us-west1"
   zone    = "us-west1-b"
 }

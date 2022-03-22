@@ -1,5 +1,5 @@
 resource "google_app_engine_application" "app" {
-  project     = "regal-groove-344900"
+  project     = "strong-park-344922"
   location_id = "us-central"
 }
 
